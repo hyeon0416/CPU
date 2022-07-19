@@ -28,7 +28,7 @@ Fetches GET , decodes it , executes it
 Fetches PRINT , decodes it , executes it
 Fetches STOP , decodes it , executes it
 
-ex)
+ex) <br/>
 GET   Get a number from keyboard
 STORE Fst   Store it at memory location named "Fst"
 GET   Get another number from keyboard
