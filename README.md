@@ -1,5 +1,7 @@
 # CPU
 
+![CPU1](./img/CPU1.png)
+
 ## To run the program:
 
 Assembler => OS => CPU
