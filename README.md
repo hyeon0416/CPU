@@ -2,6 +2,14 @@
 
 ![CPU1](./img/CPU1.png)
 
+Arithmetic : 연산
+
+logic : 큰지 작은지 같은지 비교
+
+control : 메모리 포함 기타 컨트롤
+
+accumulator : CPU의 저장장치(산술 논리 장치 결과 저장)
+
 ## To run the program:
 
 Assembler => OS => CPU
