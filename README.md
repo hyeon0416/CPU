@@ -54,3 +54,5 @@ Show PRINT    Print accumulator <br/>
 STOP  <br/>
 Fst   0 <br/>
 Snd   0 <br/>
+
+https://www.cs.princeton.edu/courses/archive/fall14/cos109/toysim
