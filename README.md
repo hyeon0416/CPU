@@ -69,16 +69,16 @@ https://www.cs.princeton.edu/courses/archive/fall14/cos109/toysim
 
 Numeric Value of Instructions
 
-|Syntax reminder|Num|
-|---|---|
-|GET|1|
-|PRINT|2|
-|STORE|3|
-|LOAD|4|
-|ADD|5|
-|STOP|6|
-|GOTO|7|
-|IFZERO|8|
+|Syntax reminder|Num|info|
+|---|---|---|
+|GET|1|get a number from keyboard into accumulator|
+|PRINT|2|print contents of accumulator|
+|STORE|3|store contents of accumulator into memory location called M (accumulator unchanged)|
+|LOAD|4|load accumulator with Val (Val unchanged)|
+|ADD|5|add Val to contents of accumulator (Val unchanged)|
+|STOP|6|stop running|
+|GOTO|7|go to instruction labeled L|
+|IFZERO|8|go to instruction labeled L if accumulator is zero|
 
 |Location|Memory|Label|Instruction|
 |---|---|---|---|
