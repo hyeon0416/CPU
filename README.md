@@ -42,9 +42,9 @@ OS는 메모리(RAM)의 첫번째 위치에서부터 명령을 시작함
 
 ![CPU2](./img/CPU2.png)
 
-Fetches GET , decodes it , executes it
-Fetches PRINT , decodes it , executes it
-Fetches STOP , decodes it , executes it
+Fetches GET , decodes it , executes it <br/>
+Fetches PRINT , decodes it , executes it  <br/>
+Fetches STOP , decodes it , executes it <br/>
 
 ex) <br/>
 GET   Get a number from keyboard  <br/>
